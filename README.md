@@ -61,6 +61,10 @@ Let's embark on this exciting journey to unlock the potential of AI that speaks,
 
 
 
+### ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Multimodal-AI-Tutorials&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Multimodal-AI-Tutorials&type=date&legend=top-left)
+
 ## ❤️ Sponsor
 
 If you found this tutorial helpful and appreciate the effort, please consider sponsoring me on GitHub! Your support helps me create more open-source content and tutorials.
