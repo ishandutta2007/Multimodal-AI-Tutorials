@@ -60,3 +60,11 @@ Let's embark on this exciting journey to unlock the potential of AI that speaks,
 ## Chapter 26: [References and Further Reading](Chapter_26_References_and_Further_Reading/README.md)
 
 
+
+### 💬 Community & Support
+
+-   **📚 [Documentation](https://docs.open-workflows.com):** Check out our official documentation for detailed guides and tutorials.
+-   **🗣️ [Forum](https://community.open-workflows.com):** Join our community forum to ask questions, share your projects, and connect with other users.
+-   **💬 [Discord](https://discord.com/invite/jc4xtF58Ve):** Chat with us on Discord for real-time support and discussions.
+-   **🐦 [Twitter](https://twitter.com/ishandutta2007):** Follow us on Twitter for the latest news and updates.
+-   **🐦 [Github](https://github.com/ishandutta2007):** Follow me on Github for the latest commits and updates.
